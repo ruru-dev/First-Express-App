@@ -1,3 +1,8 @@
+// This file was created to store user data
+// Anything that gets 'required' is considered a "module" by node.js
+
+//Node uses the exports keyword to return values from a file. 
+// Exports is an object which we can add additional properties to.
 exports.users = [
     {
         "_id": 1,
